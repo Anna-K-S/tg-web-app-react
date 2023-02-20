@@ -5,7 +5,7 @@ import './product_list.css';
 const ProductList = () => {
    return (
     <div>
-      Product LIst
+
     </div>
    );
 };
