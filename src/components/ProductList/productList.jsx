@@ -1,11 +1,11 @@
 import React from "react";
-import './product_list.css';
+import './productList.css';
 
 
 const ProductList = () => {
    return (
     <div>
-
+   
     </div>
    );
 };
