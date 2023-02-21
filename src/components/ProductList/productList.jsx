@@ -1,7 +1,9 @@
+import { useState } from "react";
 import React from "react";
 import { useTelegram } from "../../hooks/useTelegram";
 import ProductItem from "../ProductItems/productItem";
 import './productList.css';
+import { useCallback, useEffect } from "react";
 
 
 const products = [
